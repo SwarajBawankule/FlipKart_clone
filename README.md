@@ -203,20 +203,3 @@ If you find this project helpful, please consider giving it a star on GitHub! Yo
 
 
 
-<!-- Code of conduct -->
-<div>
-<h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Code of Conduct</h2>
-</div>
-
-Please note that this project is released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
-
-
-
-
-Thank you for contributing to our project! We appreciate your help in making Flipkart_Clone even better.😃
-
-<center>
-<a href="https://github.com/arghadipmanna101/Flipkart_Clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arghadipmanna101/Flipkart_Clone" />
-</a>
-</center>
