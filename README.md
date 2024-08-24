@@ -34,27 +34,7 @@
 
 
 
-<!-- Open Source Programs -->
-  <div>
-    <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Flexed%20Biceps.png?raw=true" width="35" height="35" >Open Source Programs</h2>
-  </div>
 
-  <!--This project is a part of GirlScript Summer of code. We welcome contibutions from the community to help improve the project Flipkart_Clone.-->
-
-  <table>
-
-   <tr>
-      <th>Event Logo</th>
-      <th>Event Name</th>
-      <th>Event Description</th>
-   </tr>
-   <tr>
-      <td><img src="https://user-images.githubusercontent.com/63473496/153487849-4f094c16-d21c-463e-9971-98a8af7ba372.png" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
-      <td>GirlScript Summer of Code 2024</td>
-      <td>GirlScript Summer of Code is a three-month-long Open Source Program conducted every summer by GirlScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development.</td>
-   </tr>
-
-</table>
 
 <hr>
   
