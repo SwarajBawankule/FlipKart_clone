@@ -4,16 +4,7 @@
   
 </div>
 
-<div align="center">
- <p>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/arghadipmanna101/Flipkart_Clone)
-![GitHub repo size](https://img.shields.io/github/repo-size/arghadipmanna101/Flipkart_Clone)
-![Github](https://img.shields.io/github/license/arghadipmanna101/Flipkart_Clone)
- </p>
-</div>
 
 <table align="center">
     <thead align="center">
